@@ -29,15 +29,6 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         
         <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
-
-
-<!--
-
-TemplateMo 578 First Portfolio
-
-https://templatemo.com/tm-578-first-portfolio
-
--->
     </head>
 
     <body>
